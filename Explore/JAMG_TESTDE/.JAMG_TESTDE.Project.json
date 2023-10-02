@@ -1,0 +1,23 @@
+{
+  "objectInfo" : {
+    "id" : "jSFBMY7NrESjkBBFxhOqw0",
+    "name" : "JAMG_TESTDE",
+    "type" : "Project",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : null,
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : "Binary",
+        "documentState" : "COMPLETE"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "updateTime" : "2023-10-02T14:15:53.825Z",
+  "objectRefs" : [ ]
+}
